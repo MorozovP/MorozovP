@@ -1,6 +1,6 @@
 ### Мои проекты: 
 
-1. [REST API yamdb](https://github.com/MorozovP/yamdb_final) - платформа отзывов на различные произведения.
+#### 1. [REST API yamdb](https://github.com/MorozovP/yamdb_final) - платформа отзывов на различные произведения.
 
 `Стек: Python 3, Django 2.2, Django REST Framework, Gunicorn, Nginx, PostgreSQL, Docker, CI/CD.
 `
@@ -16,7 +16,7 @@
 Пользователи оставляют к произведениям текстовые отзывы (Review) и ставят произведению оценку в диапазоне от одного до десяти (целое число); из пользовательских оценок формируется усреднённая оценка произведения — рейтинг (целое число).
 </details>
 
-2. [Yatube - блог-платформа](https://github.com/MorozovP/hw05_final.git)
+#### 2. [Yatube](https://github.com/MorozovP/hw05_final.git) - блог-платформа
 
 `Стек: Python 3, Django 2.2, Gunicorn, Nginx, PostgreSQL, Яндекс.Облако.
 `
@@ -29,7 +29,7 @@
 
 </details>
 
-3. [Homework_bot](https://github.com/MorozovP/homework_bot.git) - Telegram-бот
+##### 3. [Homework_bot](https://github.com/MorozovP/homework_bot.git) - Telegram-бот
 
 `Стек: Python 3, telegram-api, yandex-api.`
 
